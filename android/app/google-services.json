@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995092015628",
+    "project_id": "kampuh-bali",
+    "storage_bucket": "kampuh-bali.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995092015628:android:74d44aa5e1e3d3b73e9c29",
+        "android_client_info": {
+          "package_name": "com.kampuh.bali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995092015628-gjo1uu6jkdfd45uar6761vdv9d1ha6l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCENXNZr2pfGstqbYt0mpjFYl0lMnJGEm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995092015628-gjo1uu6jkdfd45uar6761vdv9d1ha6l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
